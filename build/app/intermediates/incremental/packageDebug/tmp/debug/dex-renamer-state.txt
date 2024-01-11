@@ -1,0 +1,4 @@
+#Thu Jan 11 11:57:13 IRST 2024
+base.0=/home/mohammad/work/flutter/blogclub/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
